@@ -13,3 +13,6 @@ E.S.B. van Oort, M. Mennes, T. Navarro Schröder, V.J. Kumar, N.I. Zaragoza Jime
 Functional parcellation using time courses of instantaneous connectivity Neuroimage (2017)
 
 Available at https://doi.org/10.1016/j.neuroimage.2017.07.027 
+
+
+![alt text](https://github.com/vinkrishna/Thalamic-Functional-Atlas/blob/master/ICP/Bild1.jpg)
