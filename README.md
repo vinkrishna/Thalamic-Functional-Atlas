@@ -16,3 +16,6 @@ Available at https://doi.org/10.1016/j.neuroimage.2017.07.027
 
 
 
+# Anatomical Assignments of the ICP functional parcels
+
+![alt text](https://github.com/vinkrishna/Thalamic-Functional-Atlas/blob/master/anatomical_assignments.png?raw=true)
